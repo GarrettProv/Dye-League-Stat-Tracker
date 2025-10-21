@@ -1,0 +1,82 @@
+{
+    "series_id": "2025-10-09_Sip O' Submission_vs_Osama Zynn Ladin",
+    "date": "2025-10-09",
+    "team1": "Sip O' Submission",
+    "team2": "Osama Zynn Ladin",
+    "games_played": 3,
+    "series_score": {
+        "Sip O' Submission": 0,
+        "Osama Zynn Ladin": 3
+    },
+    "winner": "Osama Zynn Ladin",
+    "players": {
+        "Dakarai": {
+            "points": 12,
+            "throws": 34,
+            "table_hits": 22,
+            "catches": 11,
+            "missed_catches": 11,
+            "sinks": 1,
+            "rim_hits": 1,
+            "rounds_won": 0,
+            "series_won": 0
+        },
+        "Torsten": {
+            "points": 7,
+            "throws": 34,
+            "table_hits": 26,
+            "catches": 6,
+            "missed_catches": 18,
+            "sinks": 0,
+            "rim_hits": 1,
+            "rounds_won": 0,
+            "series_won": 0
+        },
+        "Abby": {
+            "points": 19,
+            "throws": 39,
+            "table_hits": 34,
+            "catches": 5,
+            "missed_catches": 7,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Kale": {
+            "points": 16,
+            "throws": 33,
+            "table_hits": 19,
+            "catches": 22,
+            "missed_catches": 6,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        }
+    },
+    "teams": {
+        "Sip O' Submission": {
+            "total_points": 19,
+            "total_throws": 68,
+            "total_table_hits": 48,
+            "total_catches": 17,
+            "total_missed_catches": 29,
+            "total_sinks": 1,
+            "total_rim_hits": 2,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "Osama Zynn Ladin": {
+            "total_points": 35,
+            "total_throws": 72,
+            "total_table_hits": 53,
+            "total_catches": 27,
+            "total_missed_catches": 13,
+            "total_sinks": 2,
+            "total_rim_hits": 0,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        }
+    }
+}

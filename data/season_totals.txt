@@ -1,0 +1,50 @@
+Season Totals
+=============
+
+--- Team Totals ---
+HUZBRUZZOS: total_points:29, total_throws:76, total_catches:33, total_missed_catches:14, total_sinks:1, total_table_hits:64, total_rim_hits:0, total_rounds_won:4, total_series_won:1
+JP Morgan: total_points:19, total_throws:75, total_catches:27, total_missed_catches:26, total_sinks:0, total_table_hits:56, total_rim_hits:3, total_rounds_won:2, total_series_won:0
+Osama Zynn Ladin: total_points:35, total_throws:72, total_catches:27, total_missed_catches:13, total_sinks:2, total_table_hits:53, total_rim_hits:0, total_rounds_won:4, total_series_won:1
+Sip O' Submission: total_points:19, total_throws:68, total_catches:17, total_missed_catches:29, total_sinks:1, total_table_hits:48, total_rim_hits:2, total_rounds_won:0, total_series_won:0
+The Second Tower and The Second Plane: total_points:30, total_throws:56, total_catches:15, total_missed_catches:22, total_sinks:1, total_table_hits:41, total_rim_hits:1, total_rounds_won:4, total_series_won:1
+This Sink Was Promised To Us Three Thousand Years Ago: total_points:25, total_throws:60, total_catches:14, total_missed_catches:24, total_sinks:1, total_table_hits:47, total_rim_hits:0, total_rounds_won:0, total_series_won:0
+
+--- Player Totals ---
+Abby: points:19, throws:39, catches:5, missed_catches:7, sinks:1, table_hits:34, rim_hits:0, rounds_won:2, series_won:1
+Brett: points:15, throws:37, catches:15, missed_catches:8, sinks:0, table_hits:30, rim_hits:0, rounds_won:2, series_won:1
+Dakarai: points:12, throws:34, catches:11, missed_catches:11, sinks:1, table_hits:22, rim_hits:1, rounds_won:0, series_won:0
+Garrett: points:10, throws:38, catches:14, missed_catches:14, sinks:0, table_hits:30, rim_hits:3, rounds_won:1, series_won:0
+Harrison: points:14, throws:39, catches:18, missed_catches:6, sinks:1, table_hits:34, rim_hits:0, rounds_won:2, series_won:1
+Isaac: points:9, throws:37, catches:13, missed_catches:12, sinks:0, table_hits:26, rim_hits:0, rounds_won:1, series_won:0
+Juve: points:16, throws:32, catches:5, missed_catches:10, sinks:1, table_hits:22, rim_hits:0, rounds_won:0, series_won:0
+Kale: points:16, throws:33, catches:22, missed_catches:6, sinks:1, table_hits:19, rim_hits:0, rounds_won:2, series_won:1
+Kyler: points:16, throws:28, catches:10, missed_catches:11, sinks:1, table_hits:20, rim_hits:0, rounds_won:2, series_won:1
+Phelan: points:9, throws:28, catches:9, missed_catches:14, sinks:0, table_hits:25, rim_hits:0, rounds_won:0, series_won:0
+Torsten: points:7, throws:34, catches:6, missed_catches:18, sinks:0, table_hits:26, rim_hits:1, rounds_won:0, series_won:0
+Will: points:14, throws:28, catches:5, missed_catches:11, sinks:0, table_hits:21, rim_hits:1, rounds_won:2, series_won:1
+
+--- Season Leaders ---
+Points Leaders:
+  - Abby: 19
+  - Kale: 16
+  - Kyler: 16
+  - Juve: 16
+  - Brett: 15
+Throws Leaders:
+  - Harrison: 39
+  - Abby: 39
+  - Garrett: 38
+  - Brett: 37
+  - Isaac: 37
+Sinks Leaders:
+  - Harrison: 1
+  - Dakarai: 1
+  - Abby: 1
+  - Kale: 1
+  - Kyler: 1
+Catches Leaders:
+  - Kale: 22
+  - Harrison: 18
+  - Brett: 15
+  - Garrett: 14
+  - Isaac: 13

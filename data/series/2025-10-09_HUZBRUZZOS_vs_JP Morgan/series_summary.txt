@@ -1,0 +1,10 @@
+Series: HUZBRUZZOS vs JP Morgan
+Date: 2025-10-09
+Final Score: HUZBRUZZOS 2 - 1 JP Morgan
+Winner: HUZBRUZZOS
+
+--- Player Totals ---
+Brett → points: 15, throws: 37, table_hits: 30, catches: 15, missed_catches: 8, sinks: 0, rim_hits: 0, rounds_won: 2, series_won: 1
+Harrison → points: 14, throws: 39, table_hits: 34, catches: 18, missed_catches: 6, sinks: 1, rim_hits: 0, rounds_won: 2, series_won: 1
+Garrett → points: 10, throws: 38, table_hits: 30, catches: 14, missed_catches: 14, sinks: 0, rim_hits: 3, rounds_won: 1, series_won: 0
+Isaac → points: 9, throws: 37, table_hits: 26, catches: 13, missed_catches: 12, sinks: 0, rim_hits: 0, rounds_won: 1, series_won: 0

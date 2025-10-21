@@ -1,0 +1,82 @@
+{
+    "series_id": "2025-10-09_HUZBRUZZOS_vs_JP Morgan",
+    "date": "2025-10-09",
+    "team1": "HUZBRUZZOS",
+    "team2": "JP Morgan",
+    "games_played": 3,
+    "series_score": {
+        "HUZBRUZZOS": 2,
+        "JP Morgan": 1
+    },
+    "winner": "HUZBRUZZOS",
+    "players": {
+        "Brett": {
+            "points": 15,
+            "throws": 37,
+            "table_hits": 30,
+            "catches": 15,
+            "missed_catches": 8,
+            "sinks": 0,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Harrison": {
+            "points": 14,
+            "throws": 39,
+            "table_hits": 34,
+            "catches": 18,
+            "missed_catches": 6,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Garrett": {
+            "points": 10,
+            "throws": 38,
+            "table_hits": 30,
+            "catches": 14,
+            "missed_catches": 14,
+            "sinks": 0,
+            "rim_hits": 3,
+            "rounds_won": 1,
+            "series_won": 0
+        },
+        "Isaac": {
+            "points": 9,
+            "throws": 37,
+            "table_hits": 26,
+            "catches": 13,
+            "missed_catches": 12,
+            "sinks": 0,
+            "rim_hits": 0,
+            "rounds_won": 1,
+            "series_won": 0
+        }
+    },
+    "teams": {
+        "HUZBRUZZOS": {
+            "total_points": 29,
+            "total_throws": 76,
+            "total_table_hits": 64,
+            "total_catches": 33,
+            "total_missed_catches": 14,
+            "total_sinks": 1,
+            "total_rim_hits": 0,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        },
+        "JP Morgan": {
+            "total_points": 19,
+            "total_throws": 75,
+            "total_table_hits": 56,
+            "total_catches": 27,
+            "total_missed_catches": 26,
+            "total_sinks": 0,
+            "total_rim_hits": 3,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        }
+    }
+}

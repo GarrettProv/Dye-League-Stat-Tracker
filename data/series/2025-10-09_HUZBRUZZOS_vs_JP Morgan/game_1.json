@@ -1,0 +1,207 @@
+{
+    "game_id": "2025-10-09_HUZBRUZZOS_vs_JP Morgan_Game1",
+    "series_id": "2025-10-09_HUZBRUZZOS_vs_JP Morgan",
+    "game_number": 1,
+    "team1": {
+        "name": "HUZBRUZZOS",
+        "players": [
+            {
+                "name": "Brett",
+                "lifetime_stats": {
+                    "points": 4,
+                    "throws": 13,
+                    "table_hits": 8,
+                    "catches": 7,
+                    "missed_catches": 6,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 4,
+                    "throws": 13,
+                    "table_hits": 8,
+                    "catches": 7,
+                    "missed_catches": 6,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 13,
+                    "table_hits": 8,
+                    "catches": 7,
+                    "missed_catches": 6,
+                    "points": 4
+                }
+            },
+            {
+                "name": "Harrison",
+                "lifetime_stats": {
+                    "points": 3,
+                    "throws": 15,
+                    "table_hits": 13,
+                    "catches": 6,
+                    "missed_catches": 2,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 3,
+                    "throws": 15,
+                    "table_hits": 13,
+                    "catches": 6,
+                    "missed_catches": 2,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 15,
+                    "table_hits": 13,
+                    "points": 3,
+                    "catches": 6,
+                    "missed_catches": 2
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 7,
+            "total_throws": 28,
+            "total_table_hits": 21,
+            "total_catches": 13,
+            "total_missed_catches": 8,
+            "total_sinks": 0,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 7,
+            "total_throws": 28,
+            "total_table_hits": 21,
+            "total_catches": 13,
+            "total_missed_catches": 8,
+            "total_sinks": 0,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_throws": 28,
+            "total_table_hits": 21,
+            "total_catches": 13,
+            "total_missed_catches": 8,
+            "total_points": 7
+        }
+    },
+    "team2": {
+        "name": "JP Morgan",
+        "players": [
+            {
+                "name": "Garrett",
+                "lifetime_stats": {
+                    "points": 6,
+                    "throws": 14,
+                    "table_hits": 11,
+                    "catches": 8,
+                    "missed_catches": 5,
+                    "sinks": 0,
+                    "rim_hits": 2,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 6,
+                    "throws": 14,
+                    "table_hits": 11,
+                    "catches": 8,
+                    "missed_catches": 5,
+                    "sinks": 0,
+                    "rim_hits": 2,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "catches": 8,
+                    "throws": 14,
+                    "points": 6,
+                    "table_hits": 11,
+                    "missed_catches": 5,
+                    "rim_hits": 2,
+                    "rounds_won": 1
+                }
+            },
+            {
+                "name": "Isaac",
+                "lifetime_stats": {
+                    "points": 5,
+                    "throws": 14,
+                    "table_hits": 11,
+                    "catches": 5,
+                    "missed_catches": 2,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 5,
+                    "throws": 14,
+                    "table_hits": 11,
+                    "catches": 5,
+                    "missed_catches": 2,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 14,
+                    "table_hits": 11,
+                    "catches": 5,
+                    "points": 5,
+                    "missed_catches": 2,
+                    "rounds_won": 1
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 11,
+            "total_throws": 28,
+            "total_table_hits": 22,
+            "total_catches": 13,
+            "total_missed_catches": 7,
+            "total_sinks": 0,
+            "total_rim_hits": 2,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 11,
+            "total_throws": 28,
+            "total_table_hits": 22,
+            "total_catches": 13,
+            "total_missed_catches": 7,
+            "total_sinks": 0,
+            "total_rim_hits": 2,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_catches": 13,
+            "total_throws": 28,
+            "total_table_hits": 22,
+            "total_points": 11,
+            "total_missed_catches": 7,
+            "total_rim_hits": 2,
+            "total_rounds_won": 2
+        }
+    },
+    "winner": "JP Morgan"
+}

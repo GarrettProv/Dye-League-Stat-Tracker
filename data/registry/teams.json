@@ -1,0 +1,98 @@
+{
+    "The Second Tower and The Second Plane": {
+        "lifetime_stats": {
+            "total_points": 30,
+            "total_throws": 56,
+            "total_table_hits": 41,
+            "total_catches": 15,
+            "total_missed_catches": 22,
+            "total_sinks": 1,
+            "total_rim_hits": 1,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        },
+        "players": [
+            "Will",
+            "Kyler"
+        ]
+    },
+    "This Sink Was Promised To Us Three Thousand Years Ago": {
+        "lifetime_stats": {
+            "total_points": 67,
+            "total_throws": 158,
+            "total_table_hits": 99,
+            "total_catches": 35,
+            "total_missed_catches": 60,
+            "total_sinks": 4,
+            "total_rim_hits": 0,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "players": [
+            "Juve",
+            "Phelan"
+        ]
+    },
+    "Sip O' Submission": {
+        "lifetime_stats": {
+            "total_points": 19,
+            "total_throws": 68,
+            "total_table_hits": 48,
+            "total_catches": 17,
+            "total_missed_catches": 29,
+            "total_sinks": 1,
+            "total_rim_hits": 2,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "players": [
+            "Dakarai",
+            "Torsten"
+        ]
+    },
+    "Osama Zynn Ladin": {
+        "lifetime_stats": {
+            "total_points": 95,
+            "total_throws": 184,
+            "total_table_hits": 111,
+            "total_catches": 65,
+            "total_missed_catches": 32,
+            "total_sinks": 7,
+            "total_rim_hits": 0,
+            "total_rounds_won": 12,
+            "total_series_won": 3
+        },
+        "players": [
+            "Abby",
+            "Kale"
+        ]
+    },
+    "HUZBRUZZOS": {
+        "lifetime_stats": {
+            "total_points": 29,
+            "total_throws": 76,
+            "total_table_hits": 64,
+            "total_catches": 33,
+            "total_missed_catches": 14,
+            "total_sinks": 1,
+            "total_rim_hits": 0,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        },
+        "players": []
+    },
+    "JP Morgan": {
+        "lifetime_stats": {
+            "total_points": 19,
+            "total_throws": 75,
+            "total_table_hits": 56,
+            "total_catches": 27,
+            "total_missed_catches": 26,
+            "total_sinks": 0,
+            "total_rim_hits": 3,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "players": []
+    }
+}

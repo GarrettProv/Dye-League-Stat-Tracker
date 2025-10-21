@@ -1,0 +1,82 @@
+{
+    "series_id": "2025-10-16_Osama Zynn Ladin_vs_This Sink Was Promised To Us Three Thousand Years Ago",
+    "date": "2025-10-16",
+    "team1": "Osama Zynn Ladin",
+    "team2": "This Sink Was Promised To Us Three Thousand Years Ago",
+    "games_played": 3,
+    "series_score": {
+        "Osama Zynn Ladin": 2,
+        "This Sink Was Promised To Us Three Thousand Years Ago": 1
+    },
+    "winner": "Osama Zynn Ladin",
+    "players": {
+        "Abby": {
+            "points": 13,
+            "throws": 21,
+            "table_hits": 3,
+            "catches": 1,
+            "missed_catches": 1,
+            "sinks": 2,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Kale": {
+            "points": 12,
+            "throws": 19,
+            "table_hits": 2,
+            "catches": 10,
+            "missed_catches": 5,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Juve": {
+            "points": 8,
+            "throws": 19,
+            "table_hits": 3,
+            "catches": 5,
+            "missed_catches": 5,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 1,
+            "series_won": 0
+        },
+        "Phelan": {
+            "points": 9,
+            "throws": 19,
+            "table_hits": 2,
+            "catches": 2,
+            "missed_catches": 7,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 1,
+            "series_won": 0
+        }
+    },
+    "teams": {
+        "Osama Zynn Ladin": {
+            "total_points": 60,
+            "total_throws": 112,
+            "total_table_hits": 58,
+            "total_catches": 38,
+            "total_missed_catches": 19,
+            "total_sinks": 5,
+            "total_rim_hits": 0,
+            "total_rounds_won": 8,
+            "total_series_won": 2
+        },
+        "This Sink Was Promised To Us Three Thousand Years Ago": {
+            "total_points": 42,
+            "total_throws": 98,
+            "total_table_hits": 52,
+            "total_catches": 21,
+            "total_missed_catches": 36,
+            "total_sinks": 3,
+            "total_rim_hits": 0,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        }
+    }
+}

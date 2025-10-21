@@ -1,0 +1,207 @@
+{
+    "game_id": "2025-10-09_The Second Tower and The Second Plane_vs_This Sink Was Promised To Us Three Thousand Years Ago_Game1",
+    "series_id": "2025-10-09_The Second Tower and The Second Plane_vs_This Sink Was Promised To Us Three Thousand Years Ago",
+    "game_number": 1,
+    "team1": {
+        "name": "The Second Tower and The Second Plane",
+        "players": [
+            {
+                "name": "Will",
+                "lifetime_stats": {
+                    "points": 6,
+                    "throws": 8,
+                    "table_hits": 5,
+                    "catches": 2,
+                    "missed_catches": 1,
+                    "sinks": 0,
+                    "rim_hits": 1,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 6,
+                    "throws": 8,
+                    "table_hits": 5,
+                    "catches": 2,
+                    "missed_catches": 1,
+                    "sinks": 0,
+                    "rim_hits": 1,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 8,
+                    "rim_hits": 1,
+                    "missed_catches": 1,
+                    "catches": 2,
+                    "table_hits": 5,
+                    "points": 6,
+                    "rounds_won": 1
+                }
+            },
+            {
+                "name": "Kyler",
+                "lifetime_stats": {
+                    "points": 5,
+                    "throws": 8,
+                    "table_hits": 4,
+                    "catches": 4,
+                    "missed_catches": 4,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 5,
+                    "throws": 8,
+                    "table_hits": 4,
+                    "catches": 4,
+                    "missed_catches": 4,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "missed_catches": 4,
+                    "catches": 4,
+                    "throws": 8,
+                    "table_hits": 4,
+                    "points": 5,
+                    "rounds_won": 1
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 11,
+            "total_throws": 16,
+            "total_table_hits": 9,
+            "total_catches": 6,
+            "total_missed_catches": 5,
+            "total_sinks": 0,
+            "total_rim_hits": 1,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 11,
+            "total_throws": 16,
+            "total_table_hits": 9,
+            "total_catches": 6,
+            "total_missed_catches": 5,
+            "total_sinks": 0,
+            "total_rim_hits": 1,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_missed_catches": 5,
+            "total_catches": 6,
+            "total_throws": 16,
+            "total_rim_hits": 1,
+            "total_table_hits": 9,
+            "total_points": 11,
+            "total_rounds_won": 2
+        }
+    },
+    "team2": {
+        "name": "This Sink Was Promised To Us Three Thousand Years Ago",
+        "players": [
+            {
+                "name": "Juve",
+                "lifetime_stats": {
+                    "points": 4,
+                    "throws": 9,
+                    "table_hits": 7,
+                    "catches": 1,
+                    "missed_catches": 3,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 4,
+                    "throws": 9,
+                    "table_hits": 7,
+                    "catches": 1,
+                    "missed_catches": 3,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 9,
+                    "table_hits": 7,
+                    "catches": 1,
+                    "missed_catches": 3,
+                    "points": 4
+                }
+            },
+            {
+                "name": "Phelan",
+                "lifetime_stats": {
+                    "points": 2,
+                    "throws": 7,
+                    "table_hits": 7,
+                    "catches": 1,
+                    "missed_catches": 5,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 2,
+                    "throws": 7,
+                    "table_hits": 7,
+                    "catches": 1,
+                    "missed_catches": 5,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "table_hits": 7,
+                    "throws": 7,
+                    "points": 2,
+                    "catches": 1,
+                    "missed_catches": 5
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 6,
+            "total_throws": 16,
+            "total_table_hits": 14,
+            "total_catches": 2,
+            "total_missed_catches": 8,
+            "total_sinks": 0,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 6,
+            "total_throws": 16,
+            "total_table_hits": 14,
+            "total_catches": 2,
+            "total_missed_catches": 8,
+            "total_sinks": 0,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_table_hits": 14,
+            "total_throws": 16,
+            "total_points": 6,
+            "total_catches": 2,
+            "total_missed_catches": 8
+        }
+    },
+    "winner": "The Second Tower and The Second Plane"
+}

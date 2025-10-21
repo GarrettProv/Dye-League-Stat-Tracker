@@ -1,0 +1,1 @@
+python -m utils.merge_stats

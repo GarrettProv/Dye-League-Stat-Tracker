@@ -1,0 +1,10 @@
+Series: Osama Zynn Ladin vs This Sink Was Promised To Us Three Thousand Years Ago
+Date: 2025-10-16
+Final Score: Osama Zynn Ladin 2 - 1 This Sink Was Promised To Us Three Thousand Years Ago
+Winner: Osama Zynn Ladin
+
+--- Player Totals ---
+Abby → points: 13, throws: 21, table_hits: 3, catches: 1, missed_catches: 1, sinks: 2, rim_hits: 0, rounds_won: 2, series_won: 1
+Kale → points: 12, throws: 19, table_hits: 2, catches: 10, missed_catches: 5, sinks: 1, rim_hits: 0, rounds_won: 2, series_won: 1
+Juve → points: 8, throws: 19, table_hits: 3, catches: 5, missed_catches: 5, sinks: 1, rim_hits: 0, rounds_won: 1, series_won: 0
+Phelan → points: 9, throws: 19, table_hits: 2, catches: 2, missed_catches: 7, sinks: 1, rim_hits: 0, rounds_won: 1, series_won: 0

@@ -1,0 +1,82 @@
+{
+    "series_id": "2025-10-09_The Second Tower and The Second Plane_vs_This Sink Was Promised To Us Three Thousand Years Ago",
+    "date": "2025-10-09",
+    "team1": "The Second Tower and The Second Plane",
+    "team2": "This Sink Was Promised To Us Three Thousand Years Ago",
+    "games_played": 3,
+    "series_score": {
+        "The Second Tower and The Second Plane": 2,
+        "This Sink Was Promised To Us Three Thousand Years Ago": 0
+    },
+    "winner": "The Second Tower and The Second Plane",
+    "players": {
+        "Will": {
+            "points": 14,
+            "throws": 28,
+            "table_hits": 21,
+            "catches": 5,
+            "missed_catches": 11,
+            "sinks": 0,
+            "rim_hits": 1,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Kyler": {
+            "points": 16,
+            "throws": 28,
+            "table_hits": 20,
+            "catches": 10,
+            "missed_catches": 11,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 2,
+            "series_won": 1
+        },
+        "Juve": {
+            "points": 16,
+            "throws": 32,
+            "table_hits": 22,
+            "catches": 5,
+            "missed_catches": 10,
+            "sinks": 1,
+            "rim_hits": 0,
+            "rounds_won": 0,
+            "series_won": 0
+        },
+        "Phelan": {
+            "points": 9,
+            "throws": 28,
+            "table_hits": 25,
+            "catches": 9,
+            "missed_catches": 14,
+            "sinks": 0,
+            "rim_hits": 0,
+            "rounds_won": 0,
+            "series_won": 0
+        }
+    },
+    "teams": {
+        "The Second Tower and The Second Plane": {
+            "total_points": 30,
+            "total_throws": 56,
+            "total_table_hits": 41,
+            "total_catches": 15,
+            "total_missed_catches": 22,
+            "total_sinks": 1,
+            "total_rim_hits": 1,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        },
+        "This Sink Was Promised To Us Three Thousand Years Ago": {
+            "total_points": 25,
+            "total_throws": 60,
+            "total_table_hits": 47,
+            "total_catches": 14,
+            "total_missed_catches": 24,
+            "total_sinks": 1,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        }
+    }
+}

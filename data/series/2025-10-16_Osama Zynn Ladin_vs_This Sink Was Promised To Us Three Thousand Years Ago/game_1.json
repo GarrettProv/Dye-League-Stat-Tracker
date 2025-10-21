@@ -1,0 +1,203 @@
+{
+    "game_id": "2025-10-16_Osama Zynn Ladin_vs_This Sink Was Promised To Us Three Thousand Years Ago_Game1",
+    "series_id": "2025-10-16_Osama Zynn Ladin_vs_This Sink Was Promised To Us Three Thousand Years Ago",
+    "game_number": 1,
+    "team1": {
+        "name": "Osama Zynn Ladin",
+        "players": [
+            {
+                "name": "Abby",
+                "lifetime_stats": {
+                    "points": 3,
+                    "throws": 8,
+                    "table_hits": 1,
+                    "catches": 0,
+                    "missed_catches": 0,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 3,
+                    "throws": 8,
+                    "table_hits": 1,
+                    "catches": 0,
+                    "missed_catches": 0,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 8,
+                    "table_hits": 1,
+                    "points": 3
+                }
+            },
+            {
+                "name": "Kale",
+                "lifetime_stats": {
+                    "points": 0,
+                    "throws": 6,
+                    "table_hits": 1,
+                    "catches": 3,
+                    "missed_catches": 1,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 0,
+                    "throws": 6,
+                    "table_hits": 1,
+                    "catches": 3,
+                    "missed_catches": 1,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "catches": 3,
+                    "throws": 6,
+                    "table_hits": 1,
+                    "missed_catches": 1
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 38,
+            "total_throws": 86,
+            "total_table_hits": 55,
+            "total_catches": 30,
+            "total_missed_catches": 14,
+            "total_sinks": 2,
+            "total_rim_hits": 0,
+            "total_rounds_won": 4,
+            "total_series_won": 1
+        },
+        "current_game_stats": {
+            "total_points": 3,
+            "total_throws": 14,
+            "total_table_hits": 2,
+            "total_catches": 3,
+            "total_missed_catches": 1,
+            "total_sinks": 0,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_catches": 3,
+            "total_throws": 14,
+            "total_table_hits": 2,
+            "total_points": 3,
+            "total_missed_catches": 1
+        }
+    },
+    "team2": {
+        "name": "This Sink Was Promised To Us Three Thousand Years Ago",
+        "players": [
+            {
+                "name": "Juve",
+                "lifetime_stats": {
+                    "points": 6,
+                    "throws": 7,
+                    "table_hits": 1,
+                    "catches": 3,
+                    "missed_catches": 1,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 6,
+                    "throws": 7,
+                    "table_hits": 1,
+                    "catches": 3,
+                    "missed_catches": 1,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 7,
+                    "catches": 3,
+                    "sinks": 1,
+                    "points": 6,
+                    "table_hits": 1,
+                    "missed_catches": 1,
+                    "rounds_won": 1
+                }
+            },
+            {
+                "name": "Phelan",
+                "lifetime_stats": {
+                    "points": 5,
+                    "throws": 6,
+                    "table_hits": 0,
+                    "catches": 1,
+                    "missed_catches": 0,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 5,
+                    "throws": 6,
+                    "table_hits": 0,
+                    "catches": 1,
+                    "missed_catches": 0,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 6,
+                    "sinks": 1,
+                    "points": 5,
+                    "catches": 1,
+                    "rounds_won": 1
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 36,
+            "total_throws": 73,
+            "total_table_hits": 48,
+            "total_catches": 18,
+            "total_missed_catches": 25,
+            "total_sinks": 3,
+            "total_rim_hits": 0,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 11,
+            "total_throws": 13,
+            "total_table_hits": 1,
+            "total_catches": 4,
+            "total_missed_catches": 1,
+            "total_sinks": 2,
+            "total_rim_hits": 0,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_throws": 13,
+            "total_catches": 4,
+            "total_sinks": 2,
+            "total_points": 11,
+            "total_table_hits": 1,
+            "total_missed_catches": 1,
+            "total_rounds_won": 2
+        }
+    },
+    "winner": "This Sink Was Promised To Us Three Thousand Years Ago"
+}

@@ -1,0 +1,213 @@
+{
+    "game_id": "2025-10-09_Sip O' Submission_vs_Osama Zynn Ladin_Game3",
+    "series_id": "2025-10-09_Sip O' Submission_vs_Osama Zynn Ladin",
+    "game_number": 3,
+    "team1": {
+        "name": "Sip O' Submission",
+        "players": [
+            {
+                "name": "Dakarai",
+                "lifetime_stats": {
+                    "points": 12,
+                    "throws": 34,
+                    "table_hits": 22,
+                    "catches": 11,
+                    "missed_catches": 11,
+                    "sinks": 1,
+                    "rim_hits": 1,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 6,
+                    "throws": 9,
+                    "table_hits": 5,
+                    "catches": 1,
+                    "missed_catches": 3,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 34,
+                    "catches": 11,
+                    "table_hits": 22,
+                    "missed_catches": 11,
+                    "points": 12,
+                    "rim_hits": 1,
+                    "sinks": 1
+                }
+            },
+            {
+                "name": "Torsten",
+                "lifetime_stats": {
+                    "points": 7,
+                    "throws": 34,
+                    "table_hits": 26,
+                    "catches": 6,
+                    "missed_catches": 18,
+                    "sinks": 0,
+                    "rim_hits": 1,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 2,
+                    "throws": 7,
+                    "table_hits": 5,
+                    "catches": 2,
+                    "missed_catches": 2,
+                    "sinks": 0,
+                    "rim_hits": 0,
+                    "rounds_won": 0,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 34,
+                    "table_hits": 26,
+                    "missed_catches": 18,
+                    "points": 7,
+                    "rim_hits": 1,
+                    "catches": 6
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 19,
+            "total_throws": 68,
+            "total_table_hits": 48,
+            "total_catches": 17,
+            "total_missed_catches": 29,
+            "total_sinks": 1,
+            "total_rim_hits": 2,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 8,
+            "total_throws": 16,
+            "total_table_hits": 10,
+            "total_catches": 3,
+            "total_missed_catches": 5,
+            "total_sinks": 1,
+            "total_rim_hits": 0,
+            "total_rounds_won": 0,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_throws": 68,
+            "total_table_hits": 48,
+            "total_missed_catches": 29,
+            "total_points": 19,
+            "total_catches": 17,
+            "total_rim_hits": 2,
+            "total_sinks": 1
+        }
+    },
+    "team2": {
+        "name": "Osama Zynn Ladin",
+        "players": [
+            {
+                "name": "Abby",
+                "lifetime_stats": {
+                    "points": 19,
+                    "throws": 39,
+                    "table_hits": 34,
+                    "catches": 5,
+                    "missed_catches": 7,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 2,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 7,
+                    "throws": 9,
+                    "table_hits": 7,
+                    "catches": 0,
+                    "missed_catches": 1,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "missed_catches": 7,
+                    "throws": 39,
+                    "table_hits": 34,
+                    "points": 19,
+                    "catches": 5,
+                    "rounds_won": 2,
+                    "sinks": 1
+                }
+            },
+            {
+                "name": "Kale",
+                "lifetime_stats": {
+                    "points": 16,
+                    "throws": 33,
+                    "table_hits": 19,
+                    "catches": 22,
+                    "missed_catches": 6,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 2,
+                    "series_won": 0
+                },
+                "current_game_stats": {
+                    "points": 6,
+                    "throws": 9,
+                    "table_hits": 3,
+                    "catches": 2,
+                    "missed_catches": 3,
+                    "sinks": 1,
+                    "rim_hits": 0,
+                    "rounds_won": 1,
+                    "series_won": 0
+                },
+                "current_series_stats": {
+                    "throws": 33,
+                    "table_hits": 19,
+                    "catches": 22,
+                    "points": 16,
+                    "rounds_won": 2,
+                    "missed_catches": 6,
+                    "sinks": 1
+                }
+            }
+        ],
+        "lifetime_stats": {
+            "total_points": 35,
+            "total_throws": 72,
+            "total_table_hits": 53,
+            "total_catches": 27,
+            "total_missed_catches": 13,
+            "total_sinks": 2,
+            "total_rim_hits": 0,
+            "total_rounds_won": 4,
+            "total_series_won": 0
+        },
+        "current_game_stats": {
+            "total_points": 13,
+            "total_throws": 18,
+            "total_table_hits": 10,
+            "total_catches": 2,
+            "total_missed_catches": 4,
+            "total_sinks": 2,
+            "total_rim_hits": 0,
+            "total_rounds_won": 2,
+            "total_series_won": 0
+        },
+        "current_series_stats": {
+            "total_missed_catches": 13,
+            "total_throws": 72,
+            "total_table_hits": 53,
+            "total_points": 35,
+            "total_catches": 27,
+            "total_rounds_won": 4,
+            "total_sinks": 2
+        }
+    },
+    "winner": "Osama Zynn Ladin"
+}
